@@ -17,6 +17,8 @@ The dataset contains records about efficiacy of anti - biotics like Azithromycin
 Name: Metadata Gonorrhea
 Number of instances: 89731
 Number of features: 31 ( float64(19), int64(1), object(11))
+# Extensive EDA
+Our Data Science project aims to uncover critical insights into the correlation between efficacy and factors like Continent, Country, MIC concentrations and many more. Through rigorous statistical tests, including chi2, T-test, Mann-Whitney U test, and Pearson correlation, we establish meaningful relationships. Utilizing various classification models with different parameters, we identify the most effective algorithm for measuring the performance of the Anti - Biotics. The evidence, presented in a comprehensive EDA document uploaded in the same repository, showcases the tangible impact of our solution in advancing  health research.
 # Machine Learning Algorithm
 The project employs the following machine learning algorithm
 # Logistic Regression
